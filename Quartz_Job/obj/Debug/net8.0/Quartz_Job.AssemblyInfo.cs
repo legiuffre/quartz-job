@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quartz_Job")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3410498bdfacba5c9764b3d5b1083a33b65c6f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quartz_Job")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quartz_Job")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
